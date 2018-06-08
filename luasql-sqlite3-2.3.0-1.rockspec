@@ -1,15 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "luasql-sqlite3"
-version = "2.2.0-1"
+version = "2.3.0-1"
 -- LuaDist source
 source = {
-  tag = "2.2.0-1",
+  tag = "2.3.0-1",
   url = "git://github.com/LuaDist-testing/luasql-sqlite3.git"
 }
 -- Original source
 -- source = {
---   url = "http://cloud.github.com/downloads/keplerproject/luasql/luasql-2.2.0.tar.gz"
+--   url = "git://github.com/keplerproject/luasql.git",
+--   branch = "v2.3.0",
 -- }
 description = {
    summary = "Database connectivity for Lua (SQLite3 driver)",
